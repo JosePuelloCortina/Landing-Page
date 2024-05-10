@@ -3,6 +3,7 @@ import LandingPage from './pages/LandingPage'
 import Navbar from './components/navbar/Navbar'
 import Videoexample from './components/video-example/Videoexample'
 
+
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
             <> 
               <Navbar/>
               <Videoexample/>
+             
               <LandingPage/> 
             </>
             }

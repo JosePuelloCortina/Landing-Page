@@ -10,6 +10,8 @@ lerna-debug.log*
 public
 
 node_modules
+.eslintrc.cjs
+package-lock.json
 dist
 dist-ssr
 *.local
