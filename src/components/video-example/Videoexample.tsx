@@ -2,7 +2,7 @@ import ReactPlayer from 'react-player'
 
 export default function Videoexample() {
   return (
-    <div className='pt-48'>
+    <div className='pt-4 sm:pt-48'>
         <ReactPlayer 
             frameBorder="0"
             height="70vh"
