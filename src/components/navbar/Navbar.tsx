@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="bg-white-800">
     <div className=" ">
         <header className="absolute inset-x-0 top-0 z-50">
-        <nav className="flex items-center justify-between p-20 lg:px-8 bg-[url('/images/fondonavbar.png')]">
+        <nav className="flex items-center justify-between p-10 sm:p-20 lg:px-8 bg-[url('/images/fondonavbar.png')]">
           <div className="flex lg:flex-1">
             <a href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
